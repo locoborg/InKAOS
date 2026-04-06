@@ -19,7 +19,7 @@ InKAOS is more than just a web app; it is a vision for a future where the **brow
 
 ## 🛠 Tech Stack
 
-* **Language:** JavaScript (ES6+)
+* **Language:** PHP, JavaScript (ES6+)
 * **Environment:** Web Browser (The "Web BIOS")
 * **Platform:** Innovawer Ecosystem
 
